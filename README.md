@@ -16,6 +16,6 @@ Built using Object-Oriented Programming (OOP) principles in Java
 Java — Core game logic and architecture
 Processing (PApplet) — Rendering engine for graphics, animation, and input
 Gradle — Dependency management and project automation in a modular structure
-📦 Project Structure
 
+📦 Project Structure
 This project follows a modular structure using Gradle, making it easy to build, test, and extend.
